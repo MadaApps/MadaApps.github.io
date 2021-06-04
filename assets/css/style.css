@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: #dcdcdc;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #0c4271;
+  font-family: "Arvo", cursive;
+  /* text-shadow: 3px 0 #da0463; */
+}
+
+h2 {
+  font-size: 3rem;
+  color: #0a81ab;
+  font-family: "Arvo", cursive;
+  /* text-shadow: 3px 0 #da0463; */
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: #1eae98;
+  font-family: "Arvo", cursive;
+  /* text-shadow: 3px 0 #da0463; */
+}
+
+footer {
+  margin-top: 2%;
+  color: #0a1931;
+  font-family: "Ubuntu", sans-serif;
+}
